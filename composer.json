@@ -1,5 +1,5 @@
 {
     "require": {
-        "cocur/slugify": "^4.2"
+        "mustache/mustache": "~2.5"
     }
 }
